@@ -1,9 +1,9 @@
-## Contribuições Voluntárias
+# Basic Login System
 
-Este software é disponibilizado gratuitamente. Se você deseja apoiar o desenvolvimento e manutenção contínuos, considere fazer uma contribuição voluntária. Você pode contribuir através dos seguintes meios:
+This is a basic login system built with Node.js and Express, connected to a MySQL database. It includes functionality for user registration, login, and account deletion.
 
-- **GitHub Sponsors**: [link para sua página do GitHub Sponsors]
-- **Patreon**: [link para sua página do Patreon]
-- **PayPal**: [link para doações via PayPal]
+## Features
 
-Sua contribuição é muito apreciada e ajuda a garantir a continuidade do desenvolvimento!
+- **User Registration:** Allows new users to register with a username, password, and email.
+- **User Login:** Allows users to log in with their username and password.
+- **Account Deletion:** Allows users to delete their account by providing their username and password.
