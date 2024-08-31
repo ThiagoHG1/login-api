@@ -1,16 +1,16 @@
-# Licença de Software
+# Software License
 
 *Copyright (c) [2024] Thiago Henrique Gegers*
 
-Permissão é concedida, gratuitamente, a qualquer pessoa que obter uma cópia deste software e arquivos de documentação associados (o "Software"), para lidar com o Software sem restrição, incluindo sem limitação os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software, sujeito às seguintes condições:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
 
-## 1. *Atribuição Obrigatória*
+## 1. *Mandatory Attribution*
 
-- O aviso de direitos autorais acima e este aviso de permissão devem ser incluídos em todas as cópias ou partes substanciais do Software.
-- A atribuição ao autor, *Thiago Henrique Gegers*, deve ser claramente visível em qualquer uso, venda ou distribuição do Software. Isso inclui, mas não se limita a, documentação, materiais promocionais e qualquer forma de redistribuição do Software.
+- The above copyright notice and this permission notice must be included in all copies or substantial portions of the Software.
+- Attribution to the author, *Thiago Henrique Gegers*, must be clearly visible in any use, sale, or distribution of the Software. This includes, but is not limited to, documentation, promotional materials, and any form of redistribution of the Software.
 
-## 2. *Penalidades por Omissão*
+## 2. *Penalties for Omission*
 
-- A omissão da atribuição ao autor pode resultar em ações legais para corrigir a violação. O responsável pela violação será solicitado a corrigir a atribuição de forma imediata. Caso contrário, poderá ser impedido de continuar utilizando o Software e deverá arcar com penalidades, que podem incluir a necessidade de compensação financeira.
+- Failure to provide attribution to the author may result in legal action to correct the infringement. The responsible party will be asked to correct the attribution immediately. Otherwise, they may be prohibited from continuing to use the Software and may face penalties, including financial compensation.
 
-*O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO, SEM LIMITAÇÃO, GARANTIAS IMPLÍCITAS DE COMERCIABILIDADE, ADEQUAÇÃO A UM DADO FIM OU NÃO INFRAÇÃO. EM NENHUM CASO OS AUTORES OU DETENTORES DOS DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER RECLAMAÇÃO, DANOS OU OUTRAS RESPONSABILIDADES, SEJA EM UMA AÇÃO DE CONTRATO, RESPONSABILIDADE ESTRITA OU EM OUTRA AÇÃO, DECORRENTES DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO SOFTWARE.*
+*THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, STRICT LIABILITY, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.*
