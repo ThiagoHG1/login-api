@@ -1,0 +1,16 @@
+{
+  "name": "login-api",
+  "version": "1.0.0",
+  "description": "A robust API developed using Node.js, Express, JWT, Argon2, and SQL. It emphasizes optimization, performance, and security. Currently in development, the API may have issues or features that will be refined over time, with an ongoing commitment to enhancing its efficiency, security, and functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Henrique Gegers",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.0"
+  }
+}
