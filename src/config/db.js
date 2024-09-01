@@ -1,12 +1,15 @@
 /** This code is the property of Thiago Henrique Gegers. Removing or altering this line may result in a breach of the license terms. All rights reserved. */
 const mysql = require('mysql2/promise');
+const dotenv = require('dotenv');
+
+dotenv.config();
 
 // Creates the connection pool for the database
 const connection = mysql.createPool({
-    host: 'host',
-    user: 'user',
-    password: 'password',
-    database: 'database'
+    host: process.env.HOST,
+    user: process.env.USER,
+    password: process.env.PASSWORD,
+    database: process.env.DATABASE
 });
 
 // Tests the connection to the database
