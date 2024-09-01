@@ -7,6 +7,11 @@ This is a basic login system built with Node.js and Express, connected to a MySQ
 - **User Registration:** Allows new users to register with a username, password, and email.
 - **User Login:** Allows users to log in with their username and password.
 - **Account Deletion:** Allows users to delete their own account by providing their username and password.
+- **Token Authentication:** Implements token-based authentication to secure user sessions.
+- **Password Encryption:** Uses Argon2 for password hashing to enhance security.
+- **Authorization:** Ensures that users can only perform actions on their own accounts.
+- **Protected Routes:** Certain routes are protected and require a valid token for access.
+- **Token Verification:** Validates tokens to ensure secure access to protected routes.
 
 ## Technologies Used
 
